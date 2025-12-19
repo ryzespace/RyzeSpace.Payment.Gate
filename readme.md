@@ -23,9 +23,6 @@ The system supports multiple payment operators (Stripe, Cashbill, ZEN) and offer
 
 
 ##  Installation
-
-Translated with DeepL.com (free version)
-
 ```bash
 git clone https://github.com/twoj-repo/payment-gateway
 cd payment-gateway
